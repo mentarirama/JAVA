@@ -1,2 +1,0 @@
-# JAVA
-batch 5
