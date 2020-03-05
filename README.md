@@ -1,2 +1,2 @@
 # JAVA
-class 5
+batch 5
